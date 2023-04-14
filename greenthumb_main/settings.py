@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'vendor',
     'menu',
     'marketplace',
-    'google_translate',
+    
     'customers',
     'orders'
 ]
